@@ -8,6 +8,8 @@
 
 # 状态
 
+[![auto-generate-gitbook](https://github.com/kebufu/opencomputers-tutorial/actions/workflows/build.yml/badge.svg)](https://github.com/kebufu/opencomputers-tutorial/actions/workflows/build.yml)
+
 斜体表示未完成，粗体表示有待补充
 
 - *第一章 初识OpenComputers*
