@@ -13,6 +13,6 @@
 斜体表示未完成，粗体表示有待补充
 
 - *第一章 初识OpenComputers*
-  - [**制作一台电脑**](第一章 初识OpenComputers/制作一台电脑.md)
-  - [*打开它！*](第一章 初识OpenComputers/打开它！.md)
+  - [**制作一台电脑**](第一章%20初识OpenComputers/制作一台电脑.md)
+  - [*打开它！*](第一章%20初识OpenComputers/打开它！.md)
 
