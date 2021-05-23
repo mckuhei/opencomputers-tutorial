@@ -17,7 +17,7 @@
   - [*打开它！*](第一章%20初识OpenComputers/打开它！.md)
 
 <div style="display: none;">
-	<script type="text/javascript">;
+	<script type="text/javascript">
 	"以下内容我也不知道怎么去除>_<";
 	const element=document.querySelector("#book-search-results > div.search-noresults > section > p:nth-child(4) > a");
 	if(fetch) {
