@@ -4,7 +4,7 @@
 
 # 本教程使用的OC版本是什么？
 
-本教程使用最新版的[MC1.12.2-1.7.5.217](https://ci.cil.li/job/OpenComputers-MC1.12/217/artifact/build/libs/OpenComputers-MC1.12.2-1.7.5.217.jar)<!--([备用链接](https://pan.baidu.com/s/1C8YczThbd1DzzpDLHVoRiQ)，密码:4e43)-->
+本教程使用最新版的[MC1.12.2-1.7.5.217](https://ci.cil.li/job/OpenComputers-MC1.12/217/artifact/build/libs/OpenComputers-MC1.12.2-1.7.5.217.jar)
 
 # 状态
 
