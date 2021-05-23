@@ -4,7 +4,7 @@
 
 # 本教程使用的OC版本是什么？
 
-本教程使用最新版的[MC1.12.2-1.7.5.217](https://ci.cil.li/job/OpenComputers-MC1.12/217/artifact/build/libs/OpenComputers-MC1.12.2-1.7.5.217.jar)
+本教程使用最新版的[Opencomputers](https://ci.cil.li/job/OpenComputers-MC1.12/)，使用的版本是1.12.2
 
 # 状态
 
@@ -25,8 +25,8 @@
 			if(e!=undefined) {
 				const lastBuild=e.substr(13).substr(0,3);
 				console.log("最后构建:"+lastBuild);
-				element.innerText=element.innerText.substr(0,element.innerText.length-3)+lastBuild;
-				element.href="https://ci.cil.li/job/OpenComputers-MC1.12/"+lastBuild+"/artifact/build/libs/OpenComputers-"+element.innerText+".jar";
+				element.innerText="OpenComputers-MC1.12.2-1.7.5."+lastBuild;
+				element.href="https://ci.cil.li/job/OpenComputers-MC1.12/"+lastBuild+"/artifact/build/libs/"+element.innerText+".jar";
 			};
 		});
 	};
