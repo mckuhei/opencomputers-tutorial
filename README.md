@@ -18,7 +18,7 @@
 
 <div style="display: none;">
 	<script type="text/javascript">;
-	"以下内容我也不知道怎么去除>_<"  ;
+	"以下内容我也不知道怎么去除>_<";
 	const element=document.querySelector("#book-search-results > div.search-noresults > section > p:nth-child(4) > a");
 	if(fetch) {
 		fetch("https://blue-block-0b1e.mckuhei.workers.dev/job/OpenComputers-MC1.12/lastSuccessfulBuild/api/xml?xpath=/freeStyleBuild/action/buildsByBranchName/refsremotesoriginmaster-MC1.12/buildNumber").then(e => {if(e.status==200) return e.text()}).then(e => {
